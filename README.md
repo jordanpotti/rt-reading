@@ -21,6 +21,10 @@ https://idart.sandia.gov/_assets/documents/2017-09-13_IDART_QRS-Paper-Size.pdf
 Red Team Metrics Quick Reference Sheet
 https://idart.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf
 
+Red Team: How to Succeed by Thinking Like the Enemy - Micah Zenko
+https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/0465048943/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
+
+
 
 ## Academic, Alternative Analysis Focused
 
