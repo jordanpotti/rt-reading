@@ -1,5 +1,10 @@
 # rt-reading
-List of Red Team Reading Resources
+
+GitLabs Red Team Various Documents and Notes 
+https://gitlab.com/gitlab-com/gl-security/gl-redteam
+
+Anything written by [Magoo](https://twitter.com/magoo)
+https://scrty.io/
 
 Red Teaming Lessons Learned
 https://www.oodaloop.com/featured/2015/10/22/10-red-teaming-lessons-learned-over-20-years/
