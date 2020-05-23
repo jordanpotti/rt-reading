@@ -1,5 +1,11 @@
 # rt-reading
 
+BlueHat v18 || This is not fine - Surviving Cynicism and Building Happy Security Teams (Not RT specific but valuable for security teams)
+https://www.youtube.com/watch?v=YUwBja45fBQ&feature=youtu.be
+
+OffensiveCon20 - Halvar Flake - Keynote - Why I Love Offensive Work, Why I don't Love Offensive Work
+https://www.youtube.com/watch?v=8QRnOpjmneo&feature=youtu.be&list=PLYvhPWR_XYJnX_sscErznYqwBrIhuS08O
+
 Symantec's 10 Ground Rules for Red Teams
 https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/10-ground-rules-red-teams
 
