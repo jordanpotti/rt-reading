@@ -1,5 +1,8 @@
 # rt-reading
 
+Symantec's 10 Ground Rules for Red Teams
+https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/10-ground-rules-red-teams
+
 GitLabs Red Team Various Documents and Notes 
 https://gitlab.com/gitlab-com/gl-security/gl-redteam
 
