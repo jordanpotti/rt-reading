@@ -1,4 +1,6 @@
 # rt-reading
+Building and Leading Corporate Red Teams by Dale Pearson\
+https://www.youtube.com/watch?v=2kWMIffjNXI
 
 BlueHat v18 || This is not fine - Surviving Cynicism and Building Happy Security Teams (Not RT specific but valuable for security teams)\
 https://www.youtube.com/watch?v=YUwBja45fBQ&feature=youtu.be
