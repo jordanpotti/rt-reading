@@ -1,4 +1,8 @@
 # rt-reading
+
+Basically this page but 1000x better\
+https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md
+
 Building and Leading Corporate Red Teams by Dale Pearson\
 https://www.youtube.com/watch?v=2kWMIffjNXI
 
